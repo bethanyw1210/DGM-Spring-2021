@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: FireMaterial
+  m_Name: FireMat
   m_Shader: {fileID: -6465566751694194690, guid: 0414090f309db7247ad5dcb0c1391ff1, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -20,15 +20,15 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_7472583D:
-        m_Texture: {fileID: 2800000, guid: 40ee1d1f12781b249845ce3d62e99135, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1384e94202e27e54980937c2d9859690, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_5B7E8918: 2.69
+    - Vector1_5B7E8918: 1.2
     - Vector1_8922767D: 2
-    - Vector1_EA30E872: -0.05
+    - Vector1_EA30E872: 0
     m_Colors:
     - Color_7E55E615: {r: 0, g: 9.717277, b: 32, a: 0}
-    - Vector2_46429FC0: {r: -0.33, g: -0.3, b: 0, a: 0}
+    - Vector2_46429FC0: {r: 0, g: -0.75, b: 0, a: 0}
     - Vector2_A4D17FBA: {r: -0.1, g: -0.5, b: 0, a: 0}
   m_BuildTextureStacks: []

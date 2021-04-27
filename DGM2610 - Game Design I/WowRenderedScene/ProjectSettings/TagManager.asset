@@ -13,14 +13,14 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Light
+  - NoLight
+  - BellLights
+  - Fire
+  - Bell
+  - MP
+  - Statue
+  - WFWall
   - 
   - 
   - 
